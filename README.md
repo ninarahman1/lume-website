@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[Start: Login to Lumé] --> B[Browse Categories / Search Products]
     B --> C{Interested?}
